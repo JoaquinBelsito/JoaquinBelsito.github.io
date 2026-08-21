@@ -6,3 +6,9 @@ body {
 header {
   background-color : #FFDD00;
 }
+
+img {
+  display: block;
+  margin: 25px auto;
+  border-radius: 25px;
+}
